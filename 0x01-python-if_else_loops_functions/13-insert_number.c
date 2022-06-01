@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> c9fe38eb6e29f05093922c08ba24f39c7640e14a
+#include <stddef.h>
 #include "lists.h"
-
+#include <stdlib.h>
 /**
  * insert_node - Inserts a number into a sorted singly-linked list.
  * @head: A pointer the head of the linked list.
