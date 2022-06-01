@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> c9fe38eb6e29f05093922c08ba24f39c7640e14a
 #include "lists.h"
 
 /**
