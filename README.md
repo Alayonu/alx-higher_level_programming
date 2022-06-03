@@ -1,5 +1,3 @@
-alx-higher_level_programming
-
 This repository contains programs written for Higher Level Programming tasks for ALX School and this is the beginning of Sprint 2 curriculum. 
 Currently on Python and I will continue updating my Readme for easy access to all.
 
